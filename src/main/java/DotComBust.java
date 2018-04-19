@@ -63,7 +63,6 @@ public class DotComBust {
     }
 
     public static void main(String[] args){
-        System.out.println("рыбы водят хороводы вокруг ваших вложений.");
         DotComBust game = new DotComBust();
         game.setUpGame();
         game.startPlaying();
